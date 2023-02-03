@@ -1,0 +1,14 @@
+Package: mowateR
+Version: 0.2
+Date: 2021-12-21
+Title: Datasets for Data Science
+Description: Selected Datasets sourced from the MoWaTER project made accessible for Baylor University Introduction to Data Science students.
+Author: Luke Durell 
+Authors@R: c( person("Luke", "Durell", role = c("aut", "cre"),
+               email = "luke_durell1@baylor.edu"),
+            person("Amanda", "Hering", role = "aut",
+               email = "mandy_hering@baylor.edu")) 
+Maintainer: Luke Durell <luke_durell1@baylor.edu>
+Depends: R (>= 3.5)
+NeedsCompilation: no
+Packaged: 2022-01-18 19:41:33 UTC; lukedurell
